@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Rahul Sahastrabuddhe",
+    "description":"Looking for a software developer?",
+    "image":"profilepic.jpg",
+    "bio":"Hi!! I am a graduate student pursuing my MS in Computer Science at University of Southern California. I am actively looking for Software Engineer roles starting from May 2019.",
+    "background":"I have 3 years of work experience till date. I am workinga as Student Software Engineer at USC Norris Cancer Research Center from Jan 2018. Before that, I worked as Software Engineer at Tata Consultancy Services for 2 years (Sept 2015 - Aug 2017).",
+    "contactmessage":"Want to hire me. Please contact below it works perfectly.",
+    "email": "rahulb.sahastrabuddhe@gmail.com",
+    "phone": "469-954-6278",
+    "github":"https://github.com/RahulSahastrabuddhe",
+    "project":"https://github.com/RahulSahastrabuddhe",
+    "address":{
+      "street":"7220 McCallum Blvd. #401",
+      "city":"Dallas",
+      "state":"Texas",
+      "zip": "75252"
+    },
+    "website": "https://drive.google.com/file/d/1GU_De6AmkTLwWCWdRkDjfX65_NtMBZl-/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1GU_De6AmkTLwWCWdRkDjfX65_NtMBZl-/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/rahul.sahastrabuddhe.10/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/RahulSahastrab1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rahul-sahastrabuddhe/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/sahastrabuddhe_/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/RahulSahastrabuddhe",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Array of skill set to name a few.",
+    "education":[
+      {
+        "school":"University of Texas at Dallas",
+        "degree":"Masters in Computer Science",
+        "graduated":"December 2022 (expected)",
+        "description":"Enrolled in subjects like Database Design, Web Programming Language, Machine Learning, Algorithms with Data Science stream."
+      },
+      {
+        "school":"SGGS Nanded India",
+        "degree":"Bachelors in Information Technology",
+        "graduated":"June 2017",
+        "description":"Build my basic foundation in computer science filed by learning subjects like Operating Systems, Data Structure, OOPs, DB Design, etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"University of Texas at Dallas",
+        "title":"Computer Lab Assistant ",
+        "years":"May 2021 - Present",
+        "description":"Manage the computer lab situated in the university providing support in various jobs such as password management, general software issues."
+      },
+      {
+        "company":"Tata Consultancy Services",
+        "title":"Software Developer Engineer",
+        "years":"October 2017 - December 2020",
+        "description":"Developed a customer loan approval evaluation system based on customer’s prior transactions history working as front-end developer in Angular 9. Designed an Employee Management System using C#, MSSQL, Entity Framework which was used by more than 250 employees to perform various daily tasks.Updated a desktop application (C#, MSSQL) into a Web Application in Angular 8, MySQL, NodeJs resulting into ease of access and improved user experience. Created custom applications as per customer requirements in C# for reading and visualizing various sensory data from Engine Control unit of cars which is used to evaluate performance of customers."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"70%"
+      },
+      {
+        "name":"Angular",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"55%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"University Club Website (IAS)",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://git.io/Jcigz"
+      },
+      {
+        "title":"E-Commerce Website",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"https://git.io/Jcir5"
+      },
+      {
+        "title":"Virtual Classroom and Data Analytics",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"https://git.io/Jcirh"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"https://git.io/J81jV"
+      }
+    ]
+  }
+}
