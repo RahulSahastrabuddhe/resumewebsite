@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import PopUp from "./PopUp";
+//import PopUp from "./PopUp";
 
 let id = 0;
 class Portfolio extends Component {
@@ -25,9 +25,10 @@ class Portfolio extends Component {
           <div key={id++} className="columns portfolio-item">
             <div className="item-wrap">
               {/* href onClick={this.togglePop} */}
-              <a>
-                <img alt={projects.title} src={projectImage} />
-              </a>
+              {/* <a>
+                
+              </a> */}
+              <img alt={projects.title} src={projectImage} />
               <a href={projects.url} target="_blank" rel="noreferrer">
                 <div style={{ textAlign: "center" }}>{projects.title}</div>
               </a>
