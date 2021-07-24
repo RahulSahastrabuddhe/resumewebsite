@@ -1,9 +1,18 @@
 import React, { Component } from "react";
-import Zmage from "react-zmage";
 import Fade from "react-reveal";
+import PopUp from "./PopUp";
 
 let id = 0;
 class Portfolio extends Component {
+  state = {
+    seen: false,
+  };
+
+  togglePop = () => {
+    this.setState({
+      seen: !this.state.seen,
+    });
+  };
   render() {
     if (!this.props.data) return null;
 
@@ -11,12 +20,20 @@ class Portfolio extends Component {
       let projectImage = "images/portfolio/" + projects.image;
 
       return (
-        <div key={id++} className="columns portfolio-item">
-          <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+        <>
+          {/* {this.state.seen ? <PopUp toggle={this.togglePop} /> : null} */}
+          <div key={id++} className="columns portfolio-item">
+            <div className="item-wrap">
+              {/* href onClick={this.togglePop} */}
+              <a>
+                <img alt={projects.title} src={projectImage} />
+              </a>
+              <a href={projects.url} target="_blank" rel="noreferrer">
+                <div style={{ textAlign: "center" }}>{projects.title}</div>
+              </a>
+            </div>
           </div>
-        </div>
+        </>
       );
     });
 
