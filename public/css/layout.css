@@ -528,6 +528,8 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap img {
   vertical-align: bottom;
+  height: 150px;
+  width: fit-content;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;

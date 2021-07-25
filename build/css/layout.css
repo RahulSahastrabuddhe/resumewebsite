@@ -226,8 +226,8 @@ ul#nav li.current a {
 }
 #about .profile-pic {
   position: relative;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 100%;
 }
 #about .contact-details {
@@ -528,6 +528,8 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap img {
   vertical-align: bottom;
+  height: 150px;
+  width: fit-content;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;

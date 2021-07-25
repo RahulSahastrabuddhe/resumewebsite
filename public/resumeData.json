@@ -3,7 +3,7 @@
     "name":"Rahul Sahastrabuddhe",
     "description":"Looking for a software developer?",
     "image":"profilepic.jpg",
-    "bio":"Hi!! I am a graduate student pursuing my MS in Computer Science at University of Southern California. I am actively looking for Software Engineer roles starting from May 2019.",
+    "bio":"Hi!! I am a graduate student pursuing my MS in Computer Science at University of Texas at Dallas. I am actively looking for Software Engineer Internship roles starting from January 2022.",
     "background":"I have 3 years of work experience till date. I am workinga as Student Software Engineer at USC Norris Cancer Research Center from Jan 2018. Before that, I worked as Software Engineer at Tata Consultancy Services for 2 years (Sept 2015 - Aug 2017).",
     "contactmessage":"Want to hire me. Please contact below it works perfectly.",
     "email": "rahulb.sahastrabuddhe@gmail.com",
@@ -124,17 +124,17 @@
       {
         "title":"University Club Website (IAS)",
         "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
+        "image":"ias.jpg",
         "url":"https://git.io/Jcigz"
       },
       {
         "title":"E-Commerce Website",
         "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
+        "image":"grocery.jpg",
         "url":"https://git.io/Jcir5"
       },
       {
-        "title":"Virtual Classroom and Data Analytics",
+        "title":"Virtual Classroom and DA",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
         "url":"https://git.io/Jcirh"
@@ -142,7 +142,7 @@
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"04.jpg",
+        "image":"resume.jpg",
         "url":"https://git.io/J81jV"
       }
     ]
