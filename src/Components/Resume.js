@@ -13,7 +13,7 @@ class Resume extends Component {
 
   render() {
     if (!this.props.data) return null;
-
+    
     const skillmessage = this.props.data.skillmessage;
     const education = this.props.data.education.map(function (education) {
       return (
@@ -36,7 +36,11 @@ class Resume extends Component {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p style={{justifyContent: 'safe center'}}>{work.description.map(function(desc) {
+      return (
+            <p>{desc}</p>
+      );
+    })}</p>
         </div>
       );
     });

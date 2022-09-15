@@ -55,8 +55,8 @@ class Header extends Component {
               <h2 className="responsive-headline">Hey I'm Rahul</h2>
             </Fade>
             <Fade bottom duration={1200}>
-              <h3>{description}.</h3>
-              <h3>(front-end, back-end, full-stack)</h3>
+              <h3>{description}</h3>
+              <h3>(Web Development, Software Development, Security Posture)</h3>
               <h3>Scroll to see my work.</h3>
             </Fade>
             <hr />
