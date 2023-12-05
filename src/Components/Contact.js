@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Fade, Slide } from "react-reveal";
+import { Fade, Slide } from "react-awesome-reveal";
 import emailjs from "emailjs-com";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
