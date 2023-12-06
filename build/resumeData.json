@@ -1,20 +1,20 @@
 {
   "main": {
     "name":"Rahul Sahastrabuddhe",
-    "description":"Looking for a software Engineer?",
+    "description":"Looking for a Security Professional?",
     "image":"profilepic.jpg",
-    "bio":"Hi!! I am a graduate student pursuing my MS in Computer Science at University of Texas at Dallas. I am actively looking for Software Engineer roles starting from December 2022.",
-    "background":"I have 3 years of full time Software Engineering experience with 3 months of Internship experience.",
+    "bio":"Dedicated Cloud Security Engineer with a Master's in Computer Science from UT Dallas, leveraging expertise honed at Credit Karma to create a secure infrastructure. Committed to advancing cybersecurity, I bring to the table safeguarding web endpoints, internal infrastructure, security automations.",
+    "background":"About 1.5 years of Security Engineering experience and almost 3 years of Software Engineering experience.",
     "contactmessage":"Want to hire me. Please contact below it works perfectly.",
     "email": "rahulb.sahastrabuddhe@gmail.com",
     "phone": "469-954-6278",
     "github":"https://github.com/RahulSahastrabuddhe",
     "project":"https://github.com/RahulSahastrabuddhe",
     "address":{
-      "street":"7220 McCallum Blvd. #506",
-      "city":"Dallas",
-      "state":"Texas",
-      "zip": "75252"
+      "street":"3410 Whitehall green ln.",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip": "28273"
     },
     "website": "https://drive.google.com/file/d/1us2ZEkeHKTwWFFPgYfTtbiHvHrwnvdMB/view?usp=sharing",
     "resumedownload":"https://drive.google.com/file/d/1us2ZEkeHKTwWFFPgYfTtbiHvHrwnvdMB/view?usp=sharing",
@@ -53,7 +53,7 @@
         "school":"University of Texas at Dallas",
         "degree":"Masters in Computer Science",
         "graduated":"December 2022",
-        "description":"Enrolled in subjects like Database Design, Web Programming Language, Machine Learning, Algorithms, Object Oriented Analysis and Design, etc."
+        "description":"Took advance knowledge of Big Data, Cloud Security, Database Design, Web Programming Language, Machine Learning, Algorithms, Object Oriented Analysis and Design, etc."
       },
       {
         "school":"SGGS Nanded India",
@@ -65,7 +65,15 @@
     "work":[
       {
         "company":"Credit Karma",
-        "title":"Software Engineering Intern",
+        "title":"Cloud Security Engineer - III",
+        "years":"Jan 2023 - Present",
+        "description":[
+          "Working in the Cloud Infrastructure team to help Credit Karma a secure place for our customers by implementing security measures at various places such as securing the web endpoints by implementing web access firewalls, securing internal tools and processes, implemting automations."
+      ]
+      },
+      {
+        "company":"Credit Karma",
+        "title":"Security Engineering Intern",
         "years":"May 2022 - August 2022",
         "description":[
           "Working towards creating a software which scans through all the Google Engine Virtual machines for cleartext secrets and warn the Security Operations Center team for any of such incidents.", "Managing the deployment of the software on cloud virtual machines environment in a master-minion way using Saltstack."
@@ -82,48 +90,44 @@
     ],
     "skills":[
       {
-        "name":"Java",
+        "name":"Security Tools: Akamai, Crowdstrike, Cisco Secure Client",
         "level":"90%"
+      },
+      {
+        "name":"Google Cloud",
+        "level":"80%"
+      },
+      {
+        "name":"Object Oriented Programming (Java, C)",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
       },
       {
         "name":"ReactJS",
         "level":"75%"
       },
       {
-        "name":"Angular",
-        "level":"60%"
-      },
-      {
-        "name":"CSS",
-        "level":"80%"
-      },
-      {
-        "name":"Bootstrap",
-        "level":"70%"
-      },
-      {
-        "name":"NodeJS",
-        "level":"65%"
+        "name":"Web Development(React, NodeJS, Express, vanilla JavaScript, HTML, CSS, Bootstrap)",
+        "level":"85%"
       },
       {
         "name":"Git",
-        "level":"70%"
+        "level":"85%"
       },
       {
-        "name":"Python",
-        "level":"77%"
-      },
-      {
-        "name":"MySQL",
+        "name":"Relational Databases(Google Cloud SQL, MySQL, MSSQL, etc)",
         "level":"90%"
       },
       {
-        "name":"MongoDB",
+        "name":"Non relational Databases(Cloud Firestore, Google Cloud Storage, MongoDB)",
         "level":"65%"
       },
       {
-        "name":"HTML",
-        "level":"95%"
+        "name":"Dockers and Containers",
+        "level":"60%"
       }
     ]
   },

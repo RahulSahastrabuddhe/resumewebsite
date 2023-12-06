@@ -56,7 +56,7 @@ class Header extends Component {
             </Fade>
             <Fade bottom duration={1200}>
               <h3>{description}</h3>
-              <h3>(Web Development, Software Development, Security Posture)</h3>
+              <h3>(Cloud Security, Software Development, Security Automations)</h3>
               <h3>Scroll to see my work.</h3>
             </Fade>
             <hr />
