@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ReactGA from "react-ga";
+import ReactGA from "react-ga4";
 import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header.jsx";
@@ -18,7 +18,7 @@ class App extends Component {
     };
 
     ReactGA.initialize("UA-110570651-1");
-    ReactGA.pageview(window.location.pathname);
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
   }
 
   getResumeData() {
