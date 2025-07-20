@@ -1,167 +1,125 @@
 {
   "main": {
-    "name":"Rahul Sahastrabuddhe",
-    "description":"Looking for a Security Professional?",
-    "image":"profilepic.jpg",
-    "bio":"Dedicated Cloud Security Engineer with a Master's in Computer Science from UT Dallas, leveraging expertise honed at Credit Karma to create a secure infrastructure. Committed to advancing cybersecurity, I bring to the table safeguarding web endpoints, internal infrastructure, security automations.",
-    "background":"About 1.5 years of Security Engineering experience and almost 3 years of Software Engineering experience.",
-    "contactmessage":"Want to hire me. Please contact below it works perfectly.",
+    "name": "Rahul Sahastrabuddhe",
+    "description": "Cloud Security Engineer | Portfolio: https://rahulsahastrabuddhe.netlify.app/",
+    "image": "profilepic.jpg",
+    "bio": "Cloud Security Engineer IV at Credit Karma, Charlotte, NC. Master's in Computer Science (UT Dallas). Experienced in cloud security, automation, and web technologies. Passionate about building secure, scalable solutions.",
+    "background": "Over 2 years of Security Engineering and 3 years of Software Engineering experience.",
+    "contactmessage": "Want to hire me? Please contact below.",
     "email": "rahulb.sahastrabuddhe@gmail.com",
-    "phone": "469-954-6278",
-    "github":"https://github.com/RahulSahastrabuddhe",
-    "project":"https://github.com/RahulSahastrabuddhe",
-    "address":{
-      "street":"3410 Whitehall green ln.",
-      "city":"Charlotte",
-      "state":"North Carolina",
-      "zip": "28273"
-    },
-    "website": "https://drive.google.com/file/d/1us2ZEkeHKTwWFFPgYfTtbiHvHrwnvdMB/view?usp=sharing",
-    "resumedownload":"https://drive.google.com/file/d/1us2ZEkeHKTwWFFPgYfTtbiHvHrwnvdMB/view?usp=sharing",
-    "social":[
+    "github": "https://github.com/RahulSahastrabuddhe",
+    "project": "https://github.com/RahulSahastrabuddhe",
+    "website": "https://rahulsahastrabuddhe.netlify.app/",
+    "resumedownload": "https://rahulsahastrabuddhe.netlify.app/",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/rahul.sahastrabuddhe.10/",
-        "className":"fa fa-facebook"
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/rahul-sahastrabuddhe",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/RahulSahastrab1",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/rahul-sahastrabuddhe/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"https://www.instagram.com/sahastrabuddhe_/",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/RahulSahastrabuddhe",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/RahulSahastrabuddhe",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Array of skill set to name a few.",
-    "education":[
+  "resume": {
+    "skillmessage": "Security, cloud, web, and programming skills.",
+    "education": [
       {
-        "school":"University of Texas at Dallas",
-        "degree":"Masters in Computer Science",
-        "graduated":"December 2022",
-        "description":"Took advance knowledge of Big Data, Cloud Security, Database Design, Web Programming Language, Machine Learning, Algorithms, Object Oriented Analysis and Design, etc."
+        "school": "University of Texas at Dallas, Richardson, Texas",
+        "degree": "Master’s in Computer Science | CGPA 3.73/4.0",
+        "graduated": "Jan 2021 - Dec 2022",
+        "description": "Courses: Computer Algorithms, Database Systems, Web Programming Language, Machine Learning, Big Data Management and Analytics, Data Structures, Object Oriented Analysis and Design."
       },
       {
-        "school":"SGGS Nanded India",
-        "degree":"Bachelors in Information Technology",
-        "graduated":"June 2017",
-        "description":"Build my basic foundation in computer science filed by learning subjects like Operating Systems, Data Structure, OOPs, DB Design, etc."
+        "school": "S.G.G.S. Institute of Engineering & Technology, Maharashtra, India",
+        "degree": "Bachelor’s in Information Technology | CGPA 8.21/10.0",
+        "graduated": "June 2013 - June 2017",
+        "description": "Subjects: Operating Systems, Data Structures, OOP, DB Design, etc."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Credit Karma",
-        "title":"Cloud Security Engineer - III",
-        "years":"Jan 2023 - Present",
-        "description":[
-          "Working in the Cloud Infrastructure team to help Credit Karma a secure place for our customers by implementing security measures at various places such as securing the web endpoints by implementing web access firewalls, securing internal tools and processes, implemting automations."
-      ]
+        "company": "Credit Karma",
+        "title": "Cloud Security Engineering IV",
+        "years": "Mar 2025 – Current",
+        "description": [
+          "Enrolled Wiz vulnerability management solution on CreditKarma’s cloud infrastructure for improved visibility and protection against zero days and misconfigurations.",
+          "Improved website defence against bot attacks by implementing browser impersonator detection and mitigation controls.",
+          "Automated security DM notifications to targeted employees via Slack using tines automation.",
+          "Streamlined docker image approval with automation and Jira ticketing for compliance tracking."
+        ]
       },
       {
-        "company":"Credit Karma",
-        "title":"Security Engineering Intern",
-        "years":"May 2022 - August 2022",
-        "description":[
-          "Working towards creating a software which scans through all the Google Engine Virtual machines for cleartext secrets and warn the Security Operations Center team for any of such incidents.", "Managing the deployment of the software on cloud virtual machines environment in a master-minion way using Saltstack."
-      ]
+        "company": "Credit Karma",
+        "title": "Cloud Security Engineering III",
+        "years": "Jan 2023 – Feb 2025",
+        "description": [
+          "Secured web and mobile endpoints with WAF, defending against DDoS, XSS, and CSRF attacks.",
+          "Automated vulnerability scanning in Python for GCP EOL software compliance.",
+          "Led development of Risk Register (React, Node.js, GraphQL) for security risk tracking.",
+          "Developed GenAI tool (LangChain) for real-time incident analysis of WAF logs via chatbot."
+        ]
       },
       {
-        "company":"Tata Consultancy Services",
-        "title":"Software Developer Engineer",
-        "years":"October 2017 - December 2020",
-        "description":[
-            "Developed a customer loan approval system based on customer’s prior transactions in Angular 9 resulting in streamlining the process of loan approvals in a banking domain.", "Resolved the overhead of calculating employee project utilizations and project budgeting by creating a desktopapplication in C#, MySQL resulting in saving management time.", "Improved the employee management desktop application by providing web support in Angular 8, MySQL which improved the application usability for the customers.", "Involved in development of Diagnostic tools to test the automotive ECUs with a team of five associates for Ford Motor Company."
+        "company": "Credit Karma",
+        "title": "Security Engineering Intern",
+        "years": "May 2022 – Aug 2022",
+        "description": [
+          "POC for tool scanning Google Engine VMs for cleartext secrets and alerting SOC team."
+        ]
+      },
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Software Engineer",
+        "years": "Sep 2017 – Dec 2020",
+        "description": [
+          "Created desktop app in C#, MySQL for project utilization and budgeting, saving management time.",
+          "Enhanced employee management app with Angular 8 web support for improved usability."
         ]
       }
     ],
-    "skills":[
-      {
-        "name":"Security Tools: Akamai, Crowdstrike, Cisco Secure Client",
-        "level":"90%"
-      },
-      {
-        "name":"Google Cloud",
-        "level":"80%"
-      },
-      {
-        "name":"Object Oriented Programming (Java, C)",
-        "level":"75%"
-      },
-      {
-        "name":"Python",
-        "level":"70%"
-      },
-      {
-        "name":"ReactJS",
-        "level":"75%"
-      },
-      {
-        "name":"Web Development(React, NodeJS, Express, vanilla JavaScript, HTML, CSS, Bootstrap)",
-        "level":"85%"
-      },
-      {
-        "name":"Git",
-        "level":"85%"
-      },
-      {
-        "name":"Relational Databases(Google Cloud SQL, MySQL, MSSQL, etc)",
-        "level":"90%"
-      },
-      {
-        "name":"Non relational Databases(Cloud Firestore, Google Cloud Storage, MongoDB)",
-        "level":"65%"
-      },
-      {
-        "name":"Dockers and Containers",
-        "level":"60%"
-      }
+    "skills": [
+      { "name": "Security Tools: Akamai, Wiz, Crowdstrike, Cisco Umbrella", "level": "90%" },
+      { "name": "Web Technologies: HTML, CSS, React, Node", "level": "85%" },
+      { "name": "Programming: Python, JavaScript, Go", "level": "80%" },
+      { "name": "Databases: Google SQL, GraphQL", "level": "75%" },
+      { "name": "Cloud & Tools: GCP, Docker, Splunk, NewRelic", "level": "80%" }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"University Club Website (IAS)",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"ias.jpg",
-        "url":"https://git.io/Jcigz"
+        "title": "University Club Website (IAS)",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "ias.jpg",
+        "url": "https://git.io/Jcigz"
       },
       {
-        "title":"E-Commerce Website",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"grocery.jpg",
-        "url":"https://git.io/Jcir5"
+        "title": "E-Commerce Website",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "grocery.jpg",
+        "url": "https://git.io/Jcir5"
       },
       {
-        "title":"Virtual Classroom and DA",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"https://git.io/Jcirh"
+        "title": "Virtual Classroom and DA",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "https://git.io/Jcirh"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume.jpg",
-        "url":"https://git.io/J81jV"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume.jpg",
+        "url": "https://git.io/J81jV"
       },
       {
-        "title":"Order My Snack",
-        "category":"Online food ordering system website created in ReactJS, NodeJS, Express, SQLite.",
-        "image":"snack.png",
-        "url":"https://github.com/RahulSahastrabuddhe/GetMySnack"
+        "title": "Order My Snack",
+        "category": "Online food ordering system website created in ReactJS, NodeJS, Express, SQLite.",
+        "image": "snack.png",
+        "url": "https://github.com/RahulSahastrabuddhe/GetMySnack"
       }
     ]
   }
