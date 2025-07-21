@@ -1,16 +1,23 @@
 {
   "main": {
     "name": "Rahul Sahastrabuddhe",
-    "description": "Cloud Security Engineer | Portfolio: https://rahulsahastrabuddhe.netlify.app/",
+    "description": "Securing clouds, sparking innovation, and having fun. Check out my Cloud Security journey!",
     "image": "profilepic.jpg",
     "bio": "Cloud Security Engineer IV at Credit Karma, Charlotte, NC. Master's in Computer Science (UT Dallas). Experienced in cloud security, automation, and web technologies. Passionate about building secure, scalable solutions.",
     "background": "Over 2 years of Security Engineering and 3 years of Software Engineering experience.",
     "contactmessage": "Want to hire me? Please contact below.",
     "email": "rahulb.sahastrabuddhe@gmail.com",
+    "phone": "(469) 954-6278",
     "github": "https://github.com/RahulSahastrabuddhe",
     "project": "https://github.com/RahulSahastrabuddhe",
-    "website": "https://rahulsahastrabuddhe.netlify.app/",
-    "resumedownload": "https://rahulsahastrabuddhe.netlify.app/",
+    "address": {
+      "street": "3410 Whitehall Green Ln.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28273"
+    },
+    "website": "https://www.rahulsahastrabuddhe.com/",
+    "resumedownload": "https://docs.google.com/document/d/1GugoR9Gle8Z08EW_KYx0oUl4l5h4zQWu/edit?usp=sharing&ouid=110390688233393581206&rtpof=true&sd=true",
     "social": [
       {
         "name": "linkedin",

@@ -200,6 +200,15 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Optional: add padding for better look */
+  padding: 40px 0;
+}
+
+#about {
   background: #000524;
   padding-top: 96px;
   padding-bottom: 66px;
@@ -226,9 +235,9 @@ ul#nav li.current a {
 }
 #about .profile-pic {
   position: relative;
-  width: 150px;
-  height: 150px;
-  border-radius: 100%;
+  width: 350px;
+  height: 200px;
+  border-radius: 20%;
 }
 #about .contact-details {
   width: 41.66667%;
