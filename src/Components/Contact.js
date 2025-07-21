@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Fade, Slide } from "react-awesome-reveal";
-import emailjs from "emailjs-com";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -10,26 +9,6 @@ class Contact extends Component {
 
 
     const message = this.props.data.contactmessage;
-    function sendEmail(e) {
-      e.preventDefault();
-
-      emailjs
-        .sendForm(
-          "service_tjp00jd",
-          "template_xn3y2l7",
-          e.target,
-          "user_KxTFUCBkyZGN9TRtxlH90"
-        )
-        .then(
-          (result) => {
-            console.log(result.text);
-            toast("Email sent Successfully. We will contact you soon :)");
-          },
-          (error) => {
-            console.log(error.text);
-          }
-        );
-    }
 
     return (
       <section id="contact">
@@ -51,7 +30,11 @@ class Contact extends Component {
         <div className="row">
           <Slide left duration={1000}>
             <div className="eight columns">
-              <form onSubmit={sendEmail}>
+              <form
+                action="https://formspree.io/f/mdkdapeq"
+                method="POST"
+                onSubmit={() => toast.success("Message sent! I'll get back to you soon.")}
+              >
                 <fieldset>
                   <div>
                     <label htmlFor="contactName">
@@ -63,6 +46,7 @@ class Contact extends Component {
                       size="35"
                       placeholder="Name"
                       name="contactName"
+                      required
                     />
                   </div>
 
@@ -76,6 +60,7 @@ class Contact extends Component {
                       placeholder="Email Address"
                       size="35"
                       name="contactEmail"
+                      required
                     />
                   </div>
 
@@ -100,6 +85,7 @@ class Contact extends Component {
                       cols="50"
                       rows="15"
                       name="contactMessage"
+                      required
                     ></textarea>
                   </div>
 
